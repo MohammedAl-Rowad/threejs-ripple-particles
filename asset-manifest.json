@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/threejs-ripple-particles/static/css/main.3b48f6ce.chunk.css",
-    "main.js": "/threejs-ripple-particles/static/js/main.fab0163e.chunk.js",
-    "main.js.map": "/threejs-ripple-particles/static/js/main.fab0163e.chunk.js.map",
+    "main.css": "/threejs-ripple-particles/static/css/main.1f8f0c7f.chunk.css",
+    "main.js": "/threejs-ripple-particles/static/js/main.1f38c5b7.chunk.js",
+    "main.js.map": "/threejs-ripple-particles/static/js/main.1f38c5b7.chunk.js.map",
     "runtime-main.js": "/threejs-ripple-particles/static/js/runtime-main.3af77b1e.js",
     "runtime-main.js.map": "/threejs-ripple-particles/static/js/runtime-main.3af77b1e.js.map",
     "static/js/2.29cc3800.chunk.js": "/threejs-ripple-particles/static/js/2.29cc3800.chunk.js",
@@ -10,13 +10,13 @@
     "static/js/3.7c963049.chunk.js": "/threejs-ripple-particles/static/js/3.7c963049.chunk.js",
     "static/js/3.7c963049.chunk.js.map": "/threejs-ripple-particles/static/js/3.7c963049.chunk.js.map",
     "index.html": "/threejs-ripple-particles/index.html",
-    "static/css/main.3b48f6ce.chunk.css.map": "/threejs-ripple-particles/static/css/main.3b48f6ce.chunk.css.map",
+    "static/css/main.1f8f0c7f.chunk.css.map": "/threejs-ripple-particles/static/css/main.1f8f0c7f.chunk.css.map",
     "static/js/2.29cc3800.chunk.js.LICENSE.txt": "/threejs-ripple-particles/static/js/2.29cc3800.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.3af77b1e.js",
     "static/js/2.29cc3800.chunk.js",
-    "static/css/main.3b48f6ce.chunk.css",
-    "static/js/main.fab0163e.chunk.js"
+    "static/css/main.1f8f0c7f.chunk.css",
+    "static/js/main.1f38c5b7.chunk.js"
   ]
 }
