@@ -61,7 +61,7 @@ const Points = () => {
 
   useFrame(() => {
     t += 15
-    a += 0.2
+    a += 0.1
     const positions = bufferRef.current.array
     let xi = 0
     for (let i = 0; i < count; i++) {
